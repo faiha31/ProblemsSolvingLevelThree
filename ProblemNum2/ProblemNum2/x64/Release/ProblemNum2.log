@@ -1,0 +1,5 @@
+﻿  Generating code
+  Previous IOBJ not found, fall back to full compilation.
+D:\ProjectsProgram\ProblemsSolvingLevelThree\ProblemNum2\ProblemNum2.cpp(52): error C4716: 'SumRowsInMatrix': must return a value
+  All 18 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+LINK : fatal error LNK1257: code generation failed
