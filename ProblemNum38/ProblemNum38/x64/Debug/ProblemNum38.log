@@ -1,0 +1,3 @@
+﻿  ProblemNum38.cpp
+D:\ProjectsProgram\ProblemsSolvingLevelThree\ProblemNum38\ProblemNum38.cpp(25,18): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  ProblemNum38.vcxproj -> D:\ProjectsProgram\ProblemsSolvingLevelThree\ProblemNum38\x64\Debug\ProblemNum38.exe

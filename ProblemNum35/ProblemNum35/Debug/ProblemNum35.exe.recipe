@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project>
   <ProjectOutputs>
@@ -9,16 +8,4 @@
   <ContentFiles />
   <SatelliteDlls />
   <NonRecipeFileRefs />
-=======
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Project>
-  <ProjectOutputs>
-    <ProjectOutput>
-      <FullPath>D:\ProjectsProgram\ProblemsSolvingLevelThree\ProblemNum35\Debug\ProblemNum35.exe</FullPath>
-    </ProjectOutput>
-  </ProjectOutputs>
-  <ContentFiles />
-  <SatelliteDlls />
-  <NonRecipeFileRefs />
->>>>>>> b1fc8e70fdf975d6161ab17fd4f7fc68c6c36ce2
 </Project>
