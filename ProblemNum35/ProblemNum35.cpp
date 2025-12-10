@@ -11,7 +11,7 @@ string ReadString()
     getline(cin, S);
     return S;
 }
-void PrintFirstLetterOfEachWord(string S)
+void PrintEachWordInString(string S)
 {
     string delim = " ";//delimiter
 
