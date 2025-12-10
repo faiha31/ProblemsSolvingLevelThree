@@ -36,7 +36,7 @@ void PrintEachWordInString(string S)
 int main()
 {
 
-    PrintFirstLetterOfEachWord(ReadString());
+    PrintEachWordInString(ReadString());
 
     return 0;
 }
