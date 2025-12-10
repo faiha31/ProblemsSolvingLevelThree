@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 PlatformToolSet=v143:VCToolArchitecture=Native64Bit:VCToolsVersion=14.44.35207:TargetPlatformVersion=10.0.26100.0:
 Debug|x64|D:\ProjectsProgram\ProblemsSolvingLevelThree\ProblemNum36\|
+=======
+PlatformToolSet=v143:VCToolArchitecture=Native64Bit:VCToolsVersion=14.44.35207:TargetPlatformVersion=10.0.26100.0:
+Debug|x64|D:\ProjectsProgram\ProblemsSolvingLevelThree\ProblemNum36\|
+>>>>>>> b1fc8e70fdf975d6161ab17fd4f7fc68c6c36ce2
