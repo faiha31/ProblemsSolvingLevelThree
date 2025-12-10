@@ -11,7 +11,7 @@ string ReadString()
     getline(cin, S);
     return S;
 }
-void PrintFirstLetterOfEachWord(string S)
+void PrintEachWordInString(string S)
 {
     string delim = " ";//delimiter
 
@@ -36,7 +36,7 @@ void PrintFirstLetterOfEachWord(string S)
 int main()
 {
 
-    PrintFirstLetterOfEachWord(ReadString());
+    PrintEachWordInString(ReadString());
 
     return 0;
 }
