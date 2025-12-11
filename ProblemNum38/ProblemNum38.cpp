@@ -13,7 +13,7 @@ string ReadString()
 }
 string TrimLeft(string S)
 {
-    for (short i = 0; i < S.length(); i++)
+    for (int i = 0; i < S.length() ; i++)
     {
         if (S[i] != ' ')
             return S.substr(i, S.length() - i);
@@ -22,12 +22,13 @@ string TrimLeft(string S)
 }
 string TrimRight(string S)
 {
-    for (short i = S.length(); i >=0 ; i--)
+    for (int i = S.length(); i >= 0; i--)
     {
         if (S[i] != ' ')
             return S.substr(0, i + 1);
     }
     return "";
+
 }
 string Trim(string S)
 {
