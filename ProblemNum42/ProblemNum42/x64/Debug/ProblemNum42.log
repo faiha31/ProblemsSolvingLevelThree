@@ -1,0 +1,4 @@
+﻿  ProblemNum42.cpp
+D:\ProjectsProgram\ProblemsSolvingLevelThree\ProblemNum42\ProblemNum42.cpp(10,15): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+D:\ProjectsProgram\ProblemsSolvingLevelThree\ProblemNum42\ProblemNum42.cpp(16,21): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  ProblemNum42.vcxproj -> D:\ProjectsProgram\ProblemsSolvingLevelThree\ProblemNum42\x64\Debug\ProblemNum42.exe
