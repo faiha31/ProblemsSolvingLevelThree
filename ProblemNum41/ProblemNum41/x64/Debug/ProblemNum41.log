@@ -1,0 +1,3 @@
+﻿  ProblemNum41.cpp
+D:\ProjectsProgram\ProblemsSolvingLevelThree\ProblemNum41\ProblemNum41.cpp(22,25): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  ProblemNum41.vcxproj -> D:\ProjectsProgram\ProblemsSolvingLevelThree\ProblemNum41\x64\Debug\ProblemNum41.exe
